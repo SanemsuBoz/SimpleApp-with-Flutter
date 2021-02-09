@@ -1,5 +1,7 @@
 # ff
 
+I did a simple project with Flutter. You can add image from phone galery or take a photo with phone camera and take note where you have been visited places. You must sign up and after you must log in.
+
 A new Flutter project.
 
 ## Getting Started
